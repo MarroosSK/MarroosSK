@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Maroš</h1>
-<h3 align="center">A passionate full-stack developer from Slovakia</h3>
+<h3 align="center">A passionate front-end developer from Slovakia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marroossk&label=Profile%20views&color=0e75b6&style=flat" alt="marroossk" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://marroosportfolio.netlify.app](https://marroosportfolio.netlify.app)
 
-- 💬 Ask me about **React, Express**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **maros1chmel@gmail.com**
 
