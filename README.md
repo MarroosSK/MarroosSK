@@ -4,17 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marroossk&label=Profile%20views&color=0e75b6&style=flat" alt="marroossk" /> </p>
 
-- 🔭 I’m currently working on **improving my skills**
 
-- 🌱 I’m currently learning **Next.js**
+- 👨‍💻 All of my projects are available at [https://portfolio-maros.vercel.app](https://portfolio-maros.vercel.app)
 
-- 👨‍💻 All of my projects are available at [https://marroosportfolio.netlify.app](https://marroosportfolio.netlify.app)
-
-- 💬 Ask me about **React**
+- 💬 Ask me about **React & Next js**
 
 - 📫 How to reach me **maros1chmel@gmail.com**
 
-- ⚡ Fun fact **I am good at football.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
